@@ -1,13 +1,60 @@
-/*
-███████╗  ██╗   ██╗ ███████╗ ███████╗ ███╗   ██╗       ███   █████████    ███     ███    ███     ███
-██╔═══██╗ ██║   ██║ ██╔════╝ ██╔════╝ ████╗  ██║       ███   ███          ███     ███    ███     ███
-██║   ██║ ██║   ██║ █████╗   █████╗   ██╔██╗ ██║       ███   █████████    ███████████    ███     ███
-██║▄▄ ██║ ██║   ██║ ██╔══╝   ██╔══╝   ██║╚██╗██        ███         ███    ███     ███    ███████████
-╚██████╔╝ ╚██████╔╝ ███████╗ ███████╗ ██║ ╚████║       ███   █████████    ███     ███      ███████
-created by laksidu
- DONT COPY
-*/
 
-function _0x1e74(){const _0x240cca=['162WFWTbc','sendMessage','message','audio/mpeg','\x20⤵*\x0a','url','recording','No\x20videos\x20found\x20for\x20your\x20query.','Please\x20type\x20a\x20Name\x20or\x20Url...\x20🤖','⏳\x20*𝗧𝗶𝗺𝗲*:\x20_','🎶\x20*𝗧𝗶𝘁𝗹𝗲*:\x20_','Example\x20-\x20\x20.video\x20(enter\x20video\x20title)\x0a','../command','forEach','description','yt-search','*No\x20-\x20','679298RKHoKL','\x20𝗬𝗼𝘂𝘁𝘂𝗯𝗲\x20𝗦𝗲𝗮𝗿𝗰𝗵\x20𝗥𝗲𝘀𝘂𝗹𝘁\x20🎥*\x0a\x0a','search','3AsBEyP','🔗\x20*𝗟𝗶𝗻𝗸*:\x20','📝\x20*𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻*:\x20_','yta','👤\x20*𝗖𝗵𝗮𝗻𝗻𝗲𝗹*:\x20_','length','4882554qsFbjP','Search\x20and\x20display\x20up\x20to\x20100\x20YouTube\x20video\x20details','95165agGsFV','../auth_info_baileys/a/b/c/d/dddamsbs','215032rxnCKt','name','1024778bThzGb','Error:\x20','../lib/functions','title','slice','4jkDwov','yts','toFixed','videos','Example\x20-\x20.song\x20(enter\x20video\x20title)\x0a\x0a','https://github.com/LAKSIDUOFFICIAL/QUEEN-ISHU/blob/main/media/voice_song.mp3?raw=true','log','18706120QSJjUI','author','timestamp','5663825ZmHdhi','sendPresenceUpdate','ytv','👁️‍🗨️\x20*𝗩𝗶𝗲𝘄𝘀*:\x20_'];_0x1e74=function(){return _0x240cca;};return _0x1e74();}const _0x6e85b0=_0x465b;function _0x465b(_0x57b161,_0x6cf264){const _0x1e74d2=_0x1e74();return _0x465b=function(_0x465bb4,_0xc5a375){_0x465bb4=_0x465bb4-0x12a;let _0x1711f5=_0x1e74d2[_0x465bb4];return _0x1711f5;},_0x465b(_0x57b161,_0x6cf264);}(function(_0xbe9f6b,_0xd8fe5c){const _0x2e2a4d=_0x465b,_0x2cc86a=_0xbe9f6b();while(!![]){try{const _0x1958f8=parseInt(_0x2e2a4d(0x133))/0x1+parseInt(_0x2e2a4d(0x142))/0x2*(parseInt(_0x2e2a4d(0x136))/0x3)+-parseInt(_0x2e2a4d(0x147))/0x4*(-parseInt(_0x2e2a4d(0x151))/0x5)+-parseInt(_0x2e2a4d(0x155))/0x6*(parseInt(_0x2e2a4d(0x13e))/0x7)+parseInt(_0x2e2a4d(0x140))/0x8+parseInt(_0x2e2a4d(0x13c))/0x9+-parseInt(_0x2e2a4d(0x14e))/0xa;if(_0x1958f8===_0xd8fe5c)break;else _0x2cc86a['push'](_0x2cc86a['shift']());}catch(_0x25542e){_0x2cc86a['push'](_0x2cc86a['shift']());}}}(_0x1e74,0xa0320));const {cmd}=require(_0x6e85b0(0x12e)),yts=require(_0x6e85b0(0x131)),{fetchJson}=require(_0x6e85b0(0x144)),sensitiveData=require(_0x6e85b0(0x13f)),formatViews=_0x4d0294=>_0x4d0294>=0x3b9aca00?(_0x4d0294/0x3b9aca00)['toFixed'](0x1)+'B':_0x4d0294>=0xf4240?(_0x4d0294/0xf4240)[_0x6e85b0(0x149)](0x1)+'M':_0x4d0294>=0x3e8?(_0x4d0294/0x3e8)[_0x6e85b0(0x149)](0x1)+'K':_0x4d0294['toString'](),thumbnailUrl='https://i.imgur.com/vzDwkjg.jpeg';cmd({'pattern':_0x6e85b0(0x148),'alias':[_0x6e85b0(0x139),_0x6e85b0(0x153),'yt'],'desc':_0x6e85b0(0x13d),'category':_0x6e85b0(0x135),'filename':__filename},async(_0x548324,_0x140905,_0x89671c,{from:_0x35dee2,q:_0x164321,reply:_0x10e7c8})=>{const _0x1fdb3a=_0x6e85b0;try{if(!_0x164321)return _0x10e7c8(_0x1fdb3a(0x12a));const _0xbf111=await yts(_0x164321),_0x285b99=_0xbf111[_0x1fdb3a(0x14a)][_0x1fdb3a(0x146)](0x0,0x64);if(_0x285b99[_0x1fdb3a(0x13b)]===0x0)return _0x10e7c8(_0x1fdb3a(0x15c));let _0x26a886='*'+sensitiveData['QUEEN']+_0x1fdb3a(0x134);_0x285b99[_0x1fdb3a(0x12f)]((_0x198ea5,_0x59cc93)=>{const _0x3ba83b=_0x1fdb3a;_0x26a886+=_0x3ba83b(0x132)+(_0x59cc93+0x1)+_0x3ba83b(0x159),_0x26a886+=_0x3ba83b(0x12c)+_0x198ea5[_0x3ba83b(0x145)]+'_\x0a',_0x26a886+=_0x3ba83b(0x13a)+_0x198ea5[_0x3ba83b(0x14f)][_0x3ba83b(0x141)]+'_\x0a',_0x26a886+=_0x3ba83b(0x138)+_0x198ea5[_0x3ba83b(0x130)]+'_\x0a',_0x26a886+=_0x3ba83b(0x12b)+_0x198ea5[_0x3ba83b(0x150)]+'_\x0a',_0x26a886+='⏱️\x20*𝗔𝗴𝗼*:\x20_'+_0x198ea5['ago']+'_\x0a',_0x26a886+=_0x3ba83b(0x154)+formatViews(_0x198ea5['views'])+'_\x0a',_0x26a886+=_0x3ba83b(0x137)+_0x198ea5[_0x3ba83b(0x15a)]+'\x0a\x0a';}),_0x26a886+='*𝗛𝗼𝘄\x20𝗧𝗼\x20𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱\x20𝗩𝗶𝗱𝗲𝗼\x20𝗢𝗿\x20𝗔𝘂𝗱𝗶𝗼\x20✅*\x0a\x0a',_0x26a886+=_0x1fdb3a(0x12d),_0x26a886+=_0x1fdb3a(0x14b),_0x26a886+=''+(sensitiveData['QUEEN']-ISHU),await _0x548324[_0x1fdb3a(0x156)](_0x35dee2,{'image':{'url':thumbnailUrl},'caption':_0x26a886},{'quoted':_0x140905}),await _0x548324[_0x1fdb3a(0x152)](_0x1fdb3a(0x15b),_0x35dee2),await _0x548324[_0x1fdb3a(0x156)](_0x35dee2,{'audio':{'url':_0x1fdb3a(0x14c)},'mimetype':_0x1fdb3a(0x158),'ptt':!![]},{'quoted':_0x140905}),await _0x548324[_0x1fdb3a(0x156)](_0x35dee2,{'audio':{'url':'https://github.com/LAKSIDUOFFICIAL/QUEEN-ISHU/blob/main/media/voice_video.mp3?raw=true'},'mimetype':_0x1fdb3a(0x158),'ptt':!![]},{'quoted':_0x140905});}catch(_0x398c4a){console[_0x1fdb3a(0x14d)](_0x398c4a),_0x10e7c8(_0x1fdb3a(0x143)+_0x398c4a[_0x1fdb3a(0x157)]);}});
+const { cmd, commands } = require('../command')
+const axios = require('axios');
 
+cmd({
+    pattern: "yts",
+    react: "🔍",
+    alias: ["youtubesearch2"],
+    desc: "Search for YouTube videos using a query",
+    category: "search",
+    use: ".yts2 ",
+    filename: __filename
+}, async (conn, mek, m, { from, quoted, q, reply }) => {
+    try {
+       
+        if (!q) return reply("Please provide a search query.");
 
+       
+      await conn.sendMessage(from, { text: "*🔍 Searching YouTube...*" }, { quoted: mek });
+
+        
+        const apiUrl = `https://saviya-kolla-api.up.railway.app/api/search?query=${encodeURIComponent(q)}`;
+        const response = await fetch(apiUrl);
+
+        if (!response.ok) {
+            console.error(`API Error: ${response.status} ${response.statusText}`);
+            return reply("Failed to fetch results. Please try again later.");
+        }
+
+        const data = await response.json();
+
+       
+        if (!data || !Array.isArray(data.results) || data.results.length === 0) {
+            return reply("No YouTube videos found for your search query.");
+        }
+
+       
+        let videoInfo = "*Queen-Ishu YouTube Search Results❤️‍🔥🌝:*\n\n";
+        data.results.forEach(video => {
+            const views = video.views ? video.views.toLocaleString() : "N/A"; 
+            videoInfo += `┌──────────────────────\n`;
+            videoInfo += `├✨ *Title:* ${video.title || 'N/A'}\n`;
+            videoInfo += `├🕒 *Duration:* ${video.duration?.timestamp || 'N/A'}\n`;
+            videoInfo += `├👀 *Views:* ${views}\n`;
+            videoInfo += `├📆 *Uploaded:* ${video.ago || 'N/A'}\n`;
+            videoInfo += `├🔗 *Video URL:* ${video.url || 'N/A'}\n`;
+            videoInfo += `├📸 *Author:* ${video.author?.name || 'N/A'} (${video.author?.url || 'N/A'})\n`;
+            videoInfo += `└──────────────────────\n\n`;
+        });
+
+      
+        await conn.sendMessage(from, { text: videoInfo }, { quoted: mek });
+
+    } catch (e) {
+        console.error(e);
+        reply(`An error occurred: ${e.message}`);
+    }
+});
+
+        
